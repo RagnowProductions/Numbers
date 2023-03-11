@@ -1,4 +1,5 @@
 while True:
+  a = int(input(num))
   if type == "+":
     if a == num + 1:
         num = a + 1
